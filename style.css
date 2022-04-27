@@ -1,0 +1,130 @@
+body {
+    background-color: #d4e4ff;
+}
+
+#title {
+    color: white;
+}
+.navbar-image {
+    width: 40px;
+}
+
+.navbar {
+    padding: 0% 15%;
+    
+}
+.nav-item {
+    margin: 0 10px ;
+    padding-top: 3%;
+    
+
+}
+.nav-item-size {
+    padding-top: 5%;
+}
+.nav-color {
+    color: aliceblue;
+}
+
+#main {
+    padding: 5% 20%;
+    
+}
+.section-two {
+    background-color: #fff;
+    padding: 4%;
+    border-radius: 6px;
+}
+.player-images {
+    width: 30px;
+    
+}
+.player-name {
+    padding: 10px 10px 0;
+}
+
+#blog {
+    padding: 5% 20%;
+    
+
+}
+.blog-item {
+    background-color: #fff;
+    padding: 4%;
+    border-radius: 6px;
+}
+.blog-image {
+    width: 160px;
+}
+.blogs {
+ padding: 10px;
+ 
+}
+.blog-title{
+    padding: 0 10px;
+    line-height: 1.5;
+    
+}
+.blog-heading {
+    font-weight: bold;
+}
+.blog-paragraph {
+    font-size: small;
+}
+ 
+#course {
+    padding: 5% 20%;
+    
+}
+
+.course-content {
+    background-color: #fff;
+    padding: 4%;
+    border-radius: 6px;
+    
+
+}
+.card {
+    border: none;
+    
+}
+.card-title {
+    font-size: medium;
+    font-weight: bold;
+}
+.card-text {
+    font-size: small;
+    font-weight: 700;
+    color:  #ED6B4F;
+    ;
+}
+..card-star {
+    padding: 0 20px;
+}
+.card-star img {
+    width: 15px;
+}
+.card-star-text {
+    padding: 10px 15px;
+    margin-top: 12px;
+    font-size: small;
+    color: #a2a2a2;
+}
+
+.card-button {
+    height: 25px;
+    width: 150px;
+    border-radius: 60px;
+    border: none;
+}
+.card-button-paragraph {
+    width: 70px;
+    font-size: smaller;
+    padding-top: 15px;
+    color: #a2a2a2;
+    font-weight: bold;
+}
+h4 {
+    margin-bottom: 4%;
+    color: #562EFF;
+}
